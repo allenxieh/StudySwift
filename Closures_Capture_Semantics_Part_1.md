@@ -1,7 +1,7 @@
 >* 原文链接：[Closures Capture Semantics, Part 1: Catch them all!](http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/#fnref:in-keyword)
 >* 原文作者：Olivier Halligon
 
-#Swift Closures 捕获语义
+#Swift Closures 捕获语义 Part 1
 ---
 定义一个Pokemon
 ```swift
