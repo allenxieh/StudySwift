@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Attribute'/>
+        <page name='main'/>
+        <page name='available'/>
+        <page name='discardableResult'/>
+        <page name='dynamicMemberLookup'/>
+        <page name='dynamicCallable'/>
+        <page name='objc'/>
+        <page name='propertyWrapper'/>
+        <page name='resultBuilder'/>
+        <page name='resultBuilder2'/>
+        <page name='resultBuilder3'/>
+    </pages>
+</playground>
