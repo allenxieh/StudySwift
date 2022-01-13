@@ -50,4 +50,11 @@ let begin = start {
 }
 
 print(begin.say())
+//hello world***张三, AKA 法外狂徒 respect
+/*:
+ 使用场景:
+ 1. [在swift中使用@resultbuilder——自动布局](https://www.jianshu.com/p/fa7946172404)
+ 2. [Swift ResultBuilder 打造声明式UIkit布局](http://events.jianshu.io/p/1a3bfdd2ad15)
+ */
+    
 //: [Next](@next)

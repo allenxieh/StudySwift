@@ -35,7 +35,6 @@ struct PassthroughWrapper<Value> {
         get { return value[keyPath: member] }
     }
 }
-
 let point = Point(x: 381, y: 431)
 let wrapper = PassthroughWrapper(value: point)
 print(wrapper.x)

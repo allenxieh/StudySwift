@@ -26,7 +26,7 @@ class B {
 }
 let b = B()
 
-@available(iOS, introduced: 6.0, ob可用来标识计算属性、函数、类、协议、结构体、枚举等类型的生命周期soleted: 9.0, message: "obsoleted message")
+@available(iOS, introduced: 6.0, obsoleted: 9.0, message: "obsoleted message")
 class C {
     
 }

@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 /*:
- # @dynamicMemberLookup
+ # @dynamicCallable
  - - -
  Apply this attribute to a class, structure, enumeration, or protocol to treat instances of the type as callable functions. The type must implement either a `dynamicallyCall(withArguments:)` method, a `dynamicallyCall(withKeywordArguments:)` method, or both.
  */

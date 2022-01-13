@@ -2,9 +2,7 @@
 /*:
  # @propertyWrapper
  - - -
- 1. 告诉编译器, 这个声明在 Objective-C 代码中是可用或不可用的. 包括类, 协议, 枚举, 属性等等
- 2. swift特有特性无法暴露给 Objective-C
- 3. 当想在 Objective-C 中为 objc 特性标记的实体暴露一个不同的名字时, @objc 可以接受一个参数
+ Apply this attribute to a class, structure, or enumeration declaration to use that type as a property wrapper. When you apply this attribute to a type, you create a custom attribute with the same name as the type. Apply that new attribute to a property of a class, structure, or enumeration to wrap access to the property through an instance of the wrapper type; apply the attribute to a local stored variable declaration to wrap access to the variable the same way. Computed variables, global variables, and constants can’t use property wrappers.
  */
 import UIKit
 @propertyWrapper

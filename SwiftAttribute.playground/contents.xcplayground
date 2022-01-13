@@ -11,6 +11,5 @@
         <page name='propertyWrapper'/>
         <page name='resultBuilder'/>
         <page name='resultBuilder2'/>
-        <page name='resultBuilder3'/>
     </pages>
 </playground>
