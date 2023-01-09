@@ -32,7 +32,7 @@ struct Point { var x, y: Int }
 struct PassthroughWrapper<Value> {
     var value: Value
     subscript<T>(dynamicMember member: KeyPath<Value, T>) -> T {
-        get { return value[keyPath: member] }
+        get { return value[keyPath: member] }//point.x
     }
 }
 let point = Point(x: 381, y: 431)
