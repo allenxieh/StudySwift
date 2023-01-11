@@ -4,3 +4,4 @@ line 4
 line 5 (feature-1 add)
 line 6 (feature-1 add)
 line 7 (feature-1 add)
+line 8
